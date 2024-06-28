@@ -1,6 +1,6 @@
 AllowedVehiclesList = ['Ford F-150','Chevrolet Silverado','Tesla Cybertruck','Toyota Tundra','Nissan Titan']
 
-
+#updated as i misunderstoood part of the project at the start
 
 while (True):
   print("********************************")
